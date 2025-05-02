@@ -26,6 +26,14 @@ scan result
 
 critical result
 
+
+Several Remote Code Execution (RCE) vulnerabilities exist in Ubuntu 8.04 LTS (Hardy Heron). These vulnerabilities could allow remote system compromise and potentially root privileges.
+
+CVE-2011-4913 and CVE-2011-4914
+These vulnerabilities are caused by a flaw in the X.25 Rose network protocol in the Linux kernel. A remote or local user could exploit these vulnerabilities to execute arbitrary code on the system with root privileges.
+
+Solution
+Upgrade to a version of Canonical Ubuntu Linux that is currently supported.
 ***
 ![photo5](2b1.png)
 
