@@ -42,10 +42,4 @@ Low result
 
 ***
 ![photo5](3.png)
-![photo5](3.1.png)
-OpenVas config
-
-***
-![photo5](3.2.png)
-
-OpenVAs result 
+ 
