@@ -41,5 +41,4 @@ Upgrade to a version of Canonical Ubuntu Linux that is currently supported.
 Low result 
 
 ***
-![photo5](3.png)
- 
+
